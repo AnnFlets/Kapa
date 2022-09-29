@@ -6,5 +6,6 @@ public class Kapa {
         System.out.println("KAPA");
         System.out.println("Hola");
         System.out.println("KAPA");
+        System.out.println("KAPA 2");
     }
 }
